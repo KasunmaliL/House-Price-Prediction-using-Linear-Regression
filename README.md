@@ -44,10 +44,10 @@ Visualize important relationships such as:
 • Scatterplots to observe linearity  
 
 **Insights:**  
-✔ Prices increase with number of rooms  
-✔ Prices decrease with higher LSTAT  
-✔ Strong negative correlation between LSTAT and MEDV  
-✔ RM is one of the strongest positive predictors  
+- Prices increase with number of rooms  
+- Prices decrease with higher LSTAT  
+- Strong negative correlation between LSTAT and MEDV  
+- RM is one of the strongest positive predictors  
 
 ### 4. Model Building
 Implement multiple regression models:  
