@@ -21,8 +21,6 @@ Key features include:
 • chas: Charles River dummy variable (1 = yes, 0 = no)  
 • medv: Median home value (target variable)
 
----
-
 ## Project Workflow
 
 ### 1. Data Collection & Loading
@@ -84,16 +82,11 @@ Polynomial Regression usually improves predictive accuracy and Ridge and Lasso h
 Save trained model for deployment:  
 joblib.dump(model, "linear_regression_model.pkl")
 
-
----
-
 ## Results Summary
 • Linear Regression creates a simple, interpretable model  
 • Polynomial Regression captures non-linear patterns, improving accuracy  
 • Ridge & Lasso offer regularization benefits  
 • Best model depends on the balance between accuracy and interpretability  
-
----
 
 ## Project Files
 • Project_2_House_Price_Prediction_using_Linear_Regression.ipynb  
@@ -101,8 +94,6 @@ joblib.dump(model, "linear_regression_model.pkl")
 • linear_regression_model.pkl (saved model)  
 • README.md  
 • Project Report  
-
----
 
 ## Key Takeaways
 • Learned the complete workflow of a supervised ML project  
